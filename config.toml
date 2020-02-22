@@ -1,4 +1,4 @@
-baseURL = "http://localhost:1313/"
+baseURL = "https://blog.forecho.com"
 languageCode = "en-us"
 title = "forecho's Blog"
 theme = "echo"
